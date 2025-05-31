@@ -94,4 +94,5 @@ Music industry stakeholders often struggle to:
 
 https://github.com/Madhu9628/Spotify_Analysis/blob/main/Screenshot_of_Spotify_Analysis.png
 
-📌 **Check out my work:** [Your GitHub Repository Link]
+
+📌 **Check out my work:** https://github.com/Madhu9628/Spotify_Analysis/blob/main/Spotify%20Analysis.pbit
