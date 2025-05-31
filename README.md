@@ -90,7 +90,8 @@ Music industry stakeholders often struggle to:
 
 📷 **Demo**  
 
-*(Upload an image of the dashboard to showcase its layout and visuals.)*
+*Overview of work:* 
 
+https://github.com/Madhu9628/Spotify_Analysis/blob/main/Screenshot_of_Spotify_Analysis.png
 
 📌 **Check out my work:** [Your GitHub Repository Link]
